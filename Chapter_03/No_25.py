@@ -27,7 +27,7 @@ def safe_division_c(number, divisor, *, ignore_overflow=False, ignore_zero_divis
     pass
 
 
-# /기호 인전의 파라메터는 위치로만 지정하는 파라메터 강제가 됨
+# /기호 이전의 파라메터는 위치로만 지정하는 파라메터 강제가 됨
 def safe_division_d(number, divisor, /, *, ignore_overflow=False, ignore_zero_division=False):
     pass
 
